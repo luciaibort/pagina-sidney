@@ -10,8 +10,11 @@ body {
 	background-color: aquamarine;
 
 }
-
+h1 {
+	margin: 1em;
+}
 .imagenLogo{
+	margin: 2em;
 	width: 20%;
 }
 .imagenProducto{
@@ -25,6 +28,11 @@ a {
 	margin-left: 10px;
 	text-align: center;
 	letter-spacing: normal;
+}
+
+/*consultas*/
+.formulario {
+	margin: 5em;
 }
 
 
